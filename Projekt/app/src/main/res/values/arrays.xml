@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="difficulty_list">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>VeryHard</item>
+    </string-array>
+
+    <string-array name="difficulty_list_for_settings">
+        <item>Łatwy</item>
+        <item>Średni</item>
+        <item>Trudny</item>
+        <item>Najtrudniejszy</item>
+    </string-array>
+
+</resources>
+
+
