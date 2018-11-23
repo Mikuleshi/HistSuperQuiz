@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HistSuperQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="default_difficulty">Łatwy</string>
+    <string name="default_difficulty_message">Wybierz poziom trudności pytań.  Jako domyślny wybrano poziom Łatwy.</string>
+    <string name="incorrect_answer">Błędna odpowiedź!</string>
+    <string name="question">Pytanie %1$d z %2$d</string>
+    <string name="results">%1$d odpowiedzi %2$.02f%% poprawnych</string>
+    <string name="difficulty_levels">Poziomy trudności</string>
+    <string name="difficulty_levels_description">Poziomy trudności na jakich mają być pytania uwzględnione w quizie</string>
+</resources>
