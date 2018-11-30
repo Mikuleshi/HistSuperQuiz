@@ -9,4 +9,6 @@
     <string name="results">%1$d odpowiedzi %2$.02f%% poprawnych</string>
     <string name="difficulty_levels">Poziomy trudności</string>
     <string name="difficulty_levels_description">Poziomy trudności na jakich mają być pytania uwzględnione w quizie</string>
+    <string name="image_description">Obrazek do pytania</string>
+    <string name="guess_question">Pytanie</string>
 </resources>

@@ -4687,7 +4687,7 @@ public final class R {
     public static final int bright_foreground_material_light=0x7f060023;
     public static final int button_material_dark=0x7f060024;
     public static final int button_material_light=0x7f060025;
-    public static final int button_text_colour=0x7f060026;
+    public static final int button_text_color =0x7f060026;
     public static final int cardview_dark_background=0x7f060027;
     public static final int cardview_light_background=0x7f060028;
     public static final int cardview_shadow_end_color=0x7f060029;
